@@ -1,0 +1,84 @@
+td {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border-style: solid;
+    border-color: black;
+    
+    font-weight: 100;
+}
+
+.p {
+
+    background-color: #ee99ff;
+    
+}
+
+.b {
+    background-color:#66c2ff;
+}
+
+.y {
+    background-color: #f9f985;
+}
+
+.br {
+    background-color: #cc9900;
+}
+
+.g {
+    background-color: #bfff80;
+}
+
+.o {
+    background-color: #ff9966;
+}
+
+.cr {
+    background-color: #eeee77;
+}
+
+.l { 
+    background-color:#e6f2ff;
+}
+
+.pn {
+    background-color: #ffe6ff;
+}
+
+.lp {
+    background-color: #fff8ff;
+}
+
+.w {
+    background-color: white;
+    border-style: hidden;
+}
+
+.yellow {
+    background-color: #f9f91f;
+    height: 120px;
+    font-size: 60pt;
+    font-weight: 100;
+    text-align: center;
+    font-family:sans-serif ;
+    border-style: hidden;
+}
+
+#b {
+color: blue;    
+}
+
+#g {
+    color: green;
+}
+
+#r {
+    color: red;
+}
+
+ #emp {
+
+height: 5px;
+
+}
